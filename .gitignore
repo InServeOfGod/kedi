@@ -1,0 +1,6 @@
+/.idea/
+/assets/img/
+/tests/datasets/
+/tests/datasets/*
+/model/datasets/
+/model/datasets/*
